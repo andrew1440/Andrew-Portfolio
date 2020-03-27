@@ -96,7 +96,7 @@ li{
 }
 .contacts{
     height: 100vh;
-    background-image: url(../images/blue-green-and-red-abstract-illustration-1566909.jpg);
+    background-image: url(../images/full-frame-shot-of-abstract-background-247671.jpg);
     background-size: cover;
     background-position: fixed;
     background-repeat: no-repeat;
@@ -153,8 +153,8 @@ input{
 .card p, a{
     font-family: 'Slabo 27px', serif;
 }
-.photography{
-    background-image: url(../images/brewing.jpg);
+.art{
+    background-image: url(../images/blue-green-and-red-abstract-illustration-1566909.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 150vh;
