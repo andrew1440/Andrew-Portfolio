@@ -9,3 +9,9 @@ This application contain's languages that i have learnt and some example's of th
 
 # Live-link
 https://andrew1440.github.io/Andrew-Portfolio/
+
+# Technologies Used
+
+HTML
+
+CSS
